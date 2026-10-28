@@ -1,0 +1,251 @@
+Order_ID,Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price
+ORD0001,2026-02-27,CUST032,Wireless Mouse,Electronics,Bengaluru,3,650
+ORD0002,2026-03-13,CUST012,Mechanical Keyboard,Electronics,Mumbai,5,2200
+ORD0003,2026-08-05,CUST012,Wireless Mouse,Electronics,Bengaluru,1,650
+ORD0004,2026-04-30,CUST004,Office Chair,Furniture,Mumbai,5,6500
+ORD0005,2026-04-12,CUST029,Office Chair,Furniture,Pune,4,6500
+ORD0006,2026-05-23,CUST090,Wireless Mouse,Electronics,Pune,2,650
+ORD0007,2026-06-24,CUST028,Backpack,Accessories,Hyderabad,2,1400
+ORD0008,2026-02-22,CUST013,Mechanical Keyboard,Electronics,Hyderabad,4,2200
+ORD0009,2026-06-26,CUST006,Bluetooth Speaker,Electronics,Pune,3,1800
+ORD0010,2026-03-05,CUST071,Desk Lamp,Home,Hyderabad,1,1100
+ORD0011,2026-07-05,CUST009,Bluetooth Speaker,Electronics,Chennai,2,1800
+ORD0012,2026-04-27,CUST030,Backpack,Accessories,Chennai,1,1400
+ORD0013,2026-07-14,CUST082,Backpack,Accessories,Hyderabad,4,1400
+ORD0014,2026-03-25,CUST027,Water Bottle,Home,Hyderabad,3,550
+ORD0015,2026-02-06,CUST069,Bluetooth Speaker,Electronics,Bengaluru,2,1800
+ORD0016,2026-03-25,CUST035,Notebook Set,Stationery,Mumbai,4,350
+ORD0017,2026-04-23,CUST030,Water Bottle,Home,Chennai,1,550
+ORD0018,2026-06-11,CUST009,Desk Lamp,Home,Bengaluru,3,1100
+ORD0019,2026-06-11,CUST051,Laptop Stand,Accessories,Pune,4,900
+ORD0020,2026-03-15,CUST032,Backpack,Accessories,Mumbai,2,1400
+ORD0021,2026-05-15,CUST075,Bluetooth Speaker,Electronics,Pune,4,1800
+ORD0022,2026-07-05,CUST066,Laptop Stand,Accessories,Pune,2,900
+ORD0023,2026-02-16,CUST020,Wireless Mouse,Electronics,Bengaluru,1,650
+ORD0024,2026-08-05,CUST050,Bluetooth Speaker,Electronics,Pune,1,1800
+ORD0025,2026-08-28,CUST071,Office Chair,Furniture,Chennai,3,6500
+ORD0026,2026-02-28,CUST083,Office Chair,Furniture,Hyderabad,3,6500
+ORD0027,2026-02-27,CUST021,Backpack,Accessories,Pune,4,1400
+ORD0028,2026-01-02,CUST023,Backpack,Accessories,Mumbai,5,1400
+ORD0029,2026-02-24,CUST078,Backpack,Accessories,Bengaluru,5,1400
+ORD0030,2026-03-20,CUST070,Water Bottle,Home,Mumbai,2,550
+ORD0031,2026-01-01,CUST063,Bluetooth Speaker,Electronics,Chennai,3,1800
+ORD0032,2026-02-27,CUST031,Water Bottle,Home,Chennai,3,550
+ORD0033,2026-05-04,CUST011,Bluetooth Speaker,Electronics,Pune,1,1800
+ORD0034,2026-02-05,CUST017,Office Chair,Furniture,Pune,2,6500
+ORD0035,2026-03-26,CUST078,Backpack,Accessories,Pune,5,1400
+ORD0036,2026-04-19,CUST040,Office Chair,Furniture,Pune,2,6500
+ORD0037,2026-07-11,CUST058,Notebook Set,Stationery,Chennai,5,350
+ORD0038,2026-05-07,CUST044,Laptop Stand,Accessories,Chennai,1,900
+ORD0039,2026-04-28,CUST001,Bluetooth Speaker,Electronics,Chennai,2,1800
+ORD0040,2026-01-31,CUST005,Laptop Stand,Accessories,Hyderabad,1,900
+ORD0041,2026-02-06,CUST036,Office Chair,Furniture,Pune,2,6500
+ORD0042,2026-04-20,CUST074,Office Chair,Furniture,Mumbai,2,6500
+ORD0043,2026-08-31,CUST053,Laptop Stand,Accessories,Bengaluru,4,900
+ORD0044,2026-02-18,CUST046,Mechanical Keyboard,Electronics,Pune,4,2200
+ORD0045,2026-07-30,CUST087,Notebook Set,Stationery,Chennai,1,350
+ORD0046,2026-02-01,CUST014,Desk Lamp,Home,Bengaluru,3,1100
+ORD0047,2026-04-09,CUST058,Laptop Stand,Accessories,Bengaluru,5,900
+ORD0048,2026-08-05,CUST060,USB-C Hub,Electronics,Bengaluru,3,1200
+ORD0049,2026-02-08,CUST013,Notebook Set,Stationery,Chennai,5,350
+ORD0050,2026-01-08,CUST022,Mechanical Keyboard,Electronics,Pune,2,2200
+ORD0051,2026-09-06,CUST052,Notebook Set,Stationery,Chennai,2,350
+ORD0052,2026-03-26,CUST050,Desk Lamp,Home,Hyderabad,1,1100
+ORD0053,2026-08-21,CUST090,Backpack,Accessories,Mumbai,4,1400
+ORD0054,2026-09-07,CUST038,USB-C Hub,Electronics,Bengaluru,2,1200
+ORD0055,2026-01-30,CUST008,Bluetooth Speaker,Electronics,Hyderabad,5,1800
+ORD0056,2026-01-30,CUST062,Wireless Mouse,Electronics,Mumbai,5,650
+ORD0057,2026-09-29,CUST066,USB-C Hub,Electronics,Chennai,1,1200
+ORD0058,2026-04-06,CUST009,Mechanical Keyboard,Electronics,Bengaluru,5,2200
+ORD0059,2026-07-26,CUST032,Mechanical Keyboard,Electronics,Mumbai,5,2200
+ORD0060,2026-01-21,CUST054,Bluetooth Speaker,Electronics,Mumbai,1,1800
+ORD0061,2026-09-25,CUST027,Water Bottle,Home,Hyderabad,3,550
+ORD0062,2026-05-03,CUST017,Backpack,Accessories,Hyderabad,4,1400
+ORD0063,2026-08-23,CUST002,Water Bottle,Home,Pune,1,550
+ORD0064,2026-02-21,CUST028,Mechanical Keyboard,Electronics,Mumbai,5,2200
+ORD0065,2026-05-16,CUST009,USB-C Hub,Electronics,Bengaluru,3,1200
+ORD0066,2026-07-09,CUST057,Backpack,Accessories,Mumbai,2,1400
+ORD0067,2026-06-04,CUST002,Bluetooth Speaker,Electronics,Mumbai,5,1800
+ORD0068,2026-06-03,CUST034,Mechanical Keyboard,Electronics,Chennai,2,2200
+ORD0069,2026-02-24,CUST035,Office Chair,Furniture,Hyderabad,2,6500
+ORD0070,2026-04-18,CUST088,Water Bottle,Home,Hyderabad,2,550
+ORD0071,2026-09-16,CUST007,Notebook Set,Stationery,Chennai,3,350
+ORD0072,2026-08-05,CUST001,Backpack,Accessories,Hyderabad,1,1400
+ORD0073,2026-03-08,CUST057,Backpack,Accessories,Mumbai,2,1400
+ORD0074,2026-08-07,CUST015,Office Chair,Furniture,Chennai,1,6500
+ORD0075,2026-03-18,CUST048,Office Chair,Furniture,Mumbai,1,6500
+ORD0076,2026-03-17,CUST006,Desk Lamp,Home,Hyderabad,2,1100
+ORD0077,2026-07-06,CUST027,Wireless Mouse,Electronics,Bengaluru,3,650
+ORD0078,2026-02-22,CUST053,Water Bottle,Home,Mumbai,5,550
+ORD0079,2026-03-21,CUST023,Laptop Stand,Accessories,Pune,2,900
+ORD0080,2026-01-13,CUST053,USB-C Hub,Electronics,Bengaluru,3,1200
+ORD0081,2026-05-17,CUST049,USB-C Hub,Electronics,Chennai,1,1200
+ORD0082,2026-08-29,CUST059,Laptop Stand,Accessories,Hyderabad,2,900
+ORD0083,2026-06-06,CUST004,Laptop Stand,Accessories,Bengaluru,2,900
+ORD0084,2026-07-24,CUST009,Water Bottle,Home,Hyderabad,3,550
+ORD0085,2026-06-29,CUST087,Office Chair,Furniture,Mumbai,4,6500
+ORD0086,2026-06-19,CUST034,Wireless Mouse,Electronics,Bengaluru,1,650
+ORD0087,2026-05-16,CUST077,Wireless Mouse,Electronics,Pune,1,650
+ORD0088,2026-06-26,CUST078,Water Bottle,Home,Mumbai,4,550
+ORD0089,2026-03-01,CUST025,Desk Lamp,Home,Hyderabad,5,1100
+ORD0090,2026-01-23,CUST067,Desk Lamp,Home,Mumbai,1,1100
+ORD0091,2026-04-11,CUST009,Water Bottle,Home,Hyderabad,4,550
+ORD0092,2026-06-10,CUST065,Mechanical Keyboard,Electronics,Hyderabad,3,2200
+ORD0093,2026-07-29,CUST090,Water Bottle,Home,Hyderabad,4,550
+ORD0094,2026-03-07,CUST086,Laptop Stand,Accessories,Pune,4,900
+ORD0095,2026-03-31,CUST039,Bluetooth Speaker,Electronics,Pune,5,1800
+ORD0096,2026-01-01,CUST027,Backpack,Accessories,Pune,3,1400
+ORD0097,2026-06-14,CUST057,Notebook Set,Stationery,Bengaluru,4,350
+ORD0098,2026-09-19,CUST085,Notebook Set,Stationery,Chennai,2,350
+ORD0099,2026-05-26,CUST043,Office Chair,Furniture,Chennai,5,6500
+ORD0100,2026-05-01,CUST026,Backpack,Accessories,Bengaluru,2,1400
+ORD0101,2026-01-13,CUST061,Wireless Mouse,Electronics,Mumbai,2,650
+ORD0102,2026-02-07,CUST081,Notebook Set,Stationery,Mumbai,4,350
+ORD0103,2026-04-10,CUST052,Desk Lamp,Home,Bengaluru,4,1100
+ORD0104,2026-03-17,CUST055,Wireless Mouse,Electronics,Bengaluru,1,650
+ORD0105,2026-04-01,CUST007,Office Chair,Furniture,Mumbai,4,6500
+ORD0106,2026-05-08,CUST018,Mechanical Keyboard,Electronics,Pune,4,2200
+ORD0107,2026-09-29,CUST041,Office Chair,Furniture,Pune,5,6500
+ORD0108,2026-09-16,CUST058,Desk Lamp,Home,Bengaluru,5,1100
+ORD0109,2026-09-01,CUST032,Notebook Set,Stationery,Hyderabad,3,350
+ORD0110,2026-09-24,CUST036,Notebook Set,Stationery,Pune,2,350
+ORD0111,2026-02-09,CUST035,Backpack,Accessories,Hyderabad,2,1400
+ORD0112,2026-06-13,CUST018,Office Chair,Furniture,Bengaluru,1,6500
+ORD0113,2026-04-29,CUST028,Desk Lamp,Home,Chennai,2,1100
+ORD0114,2026-08-01,CUST070,Desk Lamp,Home,Pune,3,1100
+ORD0115,2026-08-01,CUST054,Wireless Mouse,Electronics,Pune,2,650
+ORD0116,2026-01-11,CUST062,Bluetooth Speaker,Electronics,Chennai,4,1800
+ORD0117,2026-06-30,CUST054,Backpack,Accessories,Mumbai,4,1400
+ORD0118,2026-04-23,CUST035,Notebook Set,Stationery,Pune,2,350
+ORD0119,2026-09-06,CUST044,Wireless Mouse,Electronics,Pune,4,650
+ORD0120,2026-03-26,CUST080,Notebook Set,Stationery,Mumbai,2,350
+ORD0121,2026-01-14,CUST073,Desk Lamp,Home,Chennai,5,1100
+ORD0122,2026-02-12,CUST060,Desk Lamp,Home,Bengaluru,2,1100
+ORD0123,2026-01-26,CUST042,Backpack,Accessories,Bengaluru,4,1400
+ORD0124,2026-08-21,CUST049,Water Bottle,Home,Hyderabad,3,550
+ORD0125,2026-08-04,CUST061,Backpack,Accessories,Chennai,1,1400
+ORD0126,2026-01-27,CUST084,Water Bottle,Home,Chennai,2,550
+ORD0127,2026-01-21,CUST026,Wireless Mouse,Electronics,Chennai,2,650
+ORD0128,2026-03-20,CUST061,Laptop Stand,Accessories,Chennai,2,900
+ORD0129,2026-04-22,CUST048,Notebook Set,Stationery,Bengaluru,3,350
+ORD0130,2026-02-28,CUST014,USB-C Hub,Electronics,Mumbai,3,1200
+ORD0131,2026-01-14,CUST087,Backpack,Accessories,Pune,5,1400
+ORD0132,2026-07-23,CUST076,Laptop Stand,Accessories,Bengaluru,1,900
+ORD0133,2026-02-22,CUST016,Backpack,Accessories,Mumbai,5,1400
+ORD0134,2026-01-22,CUST055,Water Bottle,Home,Hyderabad,5,550
+ORD0135,2026-02-05,CUST002,Office Chair,Furniture,Pune,3,6500
+ORD0136,2026-09-08,CUST047,Mechanical Keyboard,Electronics,Pune,4,2200
+ORD0137,2026-03-20,CUST067,Desk Lamp,Home,Hyderabad,2,1100
+ORD0138,2026-09-05,CUST076,Notebook Set,Stationery,Hyderabad,4,350
+ORD0139,2026-06-15,CUST036,Laptop Stand,Accessories,Pune,1,900
+ORD0140,2026-05-05,CUST079,Notebook Set,Stationery,Pune,5,350
+ORD0141,2026-06-22,CUST042,Wireless Mouse,Electronics,Bengaluru,4,650
+ORD0142,2026-09-07,CUST034,Laptop Stand,Accessories,Hyderabad,3,900
+ORD0143,2026-05-24,CUST072,Bluetooth Speaker,Electronics,Chennai,3,1800
+ORD0144,2026-09-22,CUST031,Laptop Stand,Accessories,Pune,1,900
+ORD0145,2026-09-08,CUST089,Office Chair,Furniture,Pune,2,6500
+ORD0146,2026-09-09,CUST012,Notebook Set,Stationery,Hyderabad,1,350
+ORD0147,2026-04-24,CUST040,Desk Lamp,Home,Mumbai,2,1100
+ORD0148,2026-07-08,CUST068,Notebook Set,Stationery,Hyderabad,5,350
+ORD0149,2026-08-06,CUST046,Office Chair,Furniture,Pune,3,6500
+ORD0150,2026-05-19,CUST030,Backpack,Accessories,Chennai,3,1400
+ORD0151,2026-04-09,CUST069,Water Bottle,Home,Bengaluru,1,550
+ORD0152,2026-04-09,CUST036,Laptop Stand,Accessories,Mumbai,4,900
+ORD0153,2026-09-26,CUST013,Bluetooth Speaker,Electronics,Bengaluru,3,1800
+ORD0154,2026-06-01,CUST023,Laptop Stand,Accessories,Hyderabad,3,900
+ORD0155,2026-01-08,CUST036,Office Chair,Furniture,Chennai,2,6500
+ORD0156,2026-01-28,CUST090,Office Chair,Furniture,Bengaluru,3,6500
+ORD0157,2026-09-09,CUST074,Mechanical Keyboard,Electronics,Hyderabad,1,2200
+ORD0158,2026-08-29,CUST044,Notebook Set,Stationery,Bengaluru,4,350
+ORD0159,2026-01-27,CUST015,Backpack,Accessories,Chennai,4,1400
+ORD0160,2026-07-25,CUST074,Notebook Set,Stationery,Chennai,1,350
+ORD0161,2026-03-19,CUST039,USB-C Hub,Electronics,Chennai,5,1200
+ORD0162,2026-05-08,CUST054,Mechanical Keyboard,Electronics,Mumbai,5,2200
+ORD0163,2026-04-26,CUST058,Office Chair,Furniture,Pune,4,6500
+ORD0164,2026-06-02,CUST040,Bluetooth Speaker,Electronics,Mumbai,4,1800
+ORD0165,2026-01-31,CUST027,Bluetooth Speaker,Electronics,Bengaluru,1,1800
+ORD0166,2026-05-16,CUST031,Mechanical Keyboard,Electronics,Bengaluru,2,2200
+ORD0167,2026-02-08,CUST053,USB-C Hub,Electronics,Pune,1,1200
+ORD0168,2026-08-29,CUST030,Backpack,Accessories,Hyderabad,1,1400
+ORD0169,2026-05-25,CUST088,Notebook Set,Stationery,Bengaluru,1,350
+ORD0170,2026-05-16,CUST055,Bluetooth Speaker,Electronics,Chennai,2,1800
+ORD0171,2026-04-26,CUST019,USB-C Hub,Electronics,Chennai,3,1200
+ORD0172,2026-01-31,CUST077,USB-C Hub,Electronics,Mumbai,3,1200
+ORD0173,2026-05-28,CUST060,Notebook Set,Stationery,Hyderabad,1,350
+ORD0174,2026-07-26,CUST070,Backpack,Accessories,Pune,5,1400
+ORD0175,2026-08-13,CUST006,Mechanical Keyboard,Electronics,Pune,5,2200
+ORD0176,2026-06-15,CUST004,Bluetooth Speaker,Electronics,Chennai,3,1800
+ORD0177,2026-04-28,CUST003,Bluetooth Speaker,Electronics,Hyderabad,5,1800
+ORD0178,2026-01-21,CUST067,USB-C Hub,Electronics,Pune,4,1200
+ORD0179,2026-05-23,CUST056,USB-C Hub,Electronics,Pune,5,1200
+ORD0180,2026-02-16,CUST053,Notebook Set,Stationery,Hyderabad,3,350
+ORD0181,2026-06-14,CUST043,Mechanical Keyboard,Electronics,Pune,2,2200
+ORD0182,2026-09-11,CUST071,Backpack,Accessories,Chennai,4,1400
+ORD0183,2026-08-21,CUST033,Mechanical Keyboard,Electronics,Hyderabad,3,2200
+ORD0184,2026-03-01,CUST001,Desk Lamp,Home,Mumbai,5,1100
+ORD0185,2026-08-25,CUST025,Desk Lamp,Home,Mumbai,1,1100
+ORD0186,2026-07-05,CUST081,Bluetooth Speaker,Electronics,Pune,4,1800
+ORD0187,2026-01-27,CUST071,Laptop Stand,Accessories,Bengaluru,3,900
+ORD0188,2026-05-28,CUST016,Notebook Set,Stationery,Chennai,4,350
+ORD0189,2026-05-03,CUST071,USB-C Hub,Electronics,Chennai,3,1200
+ORD0190,2026-07-28,CUST015,Mechanical Keyboard,Electronics,Pune,2,2200
+ORD0191,2026-03-02,CUST038,USB-C Hub,Electronics,Mumbai,4,1200
+ORD0192,2026-05-20,CUST061,Desk Lamp,Home,Bengaluru,4,1100
+ORD0193,2026-08-22,CUST050,Office Chair,Furniture,Bengaluru,2,6500
+ORD0194,2026-09-18,CUST036,USB-C Hub,Electronics,Pune,1,1200
+ORD0195,2026-06-24,CUST001,Office Chair,Furniture,Hyderabad,3,6500
+ORD0196,2026-06-02,CUST085,Bluetooth Speaker,Electronics,Pune,5,1800
+ORD0197,2026-03-18,CUST062,Notebook Set,Stationery,Hyderabad,5,350
+ORD0198,2026-06-20,CUST049,Office Chair,Furniture,Pune,5,6500
+ORD0199,2026-06-14,CUST074,Laptop Stand,Accessories,Pune,2,900
+ORD0200,2026-04-30,CUST041,Desk Lamp,Home,Pune,1,1100
+ORD0201,2026-07-15,CUST064,Desk Lamp,Home,Chennai,2,1100
+ORD0202,2026-03-06,CUST043,Office Chair,Furniture,Chennai,5,6500
+ORD0203,2026-08-14,CUST059,Mechanical Keyboard,Electronics,Chennai,5,2200
+ORD0204,2026-03-15,CUST010,Desk Lamp,Home,Pune,2,1100
+ORD0205,2026-05-16,CUST089,Water Bottle,Home,Pune,5,550
+ORD0206,2026-02-11,CUST049,Water Bottle,Home,Hyderabad,5,550
+ORD0207,2026-09-07,CUST080,Office Chair,Furniture,Chennai,1,6500
+ORD0208,2026-05-01,CUST012,Backpack,Accessories,Pune,2,1400
+ORD0209,2026-02-20,CUST022,Mechanical Keyboard,Electronics,Hyderabad,4,2200
+ORD0210,2026-01-15,CUST008,Wireless Mouse,Electronics,Hyderabad,3,650
+ORD0211,2026-07-03,CUST019,Water Bottle,Home,Bengaluru,4,550
+ORD0212,2026-09-29,CUST088,Desk Lamp,Home,Bengaluru,5,1100
+ORD0213,2026-03-29,CUST079,USB-C Hub,Electronics,Pune,1,1200
+ORD0214,2026-05-04,CUST019,Notebook Set,Stationery,Bengaluru,5,350
+ORD0215,2026-08-25,CUST033,Backpack,Accessories,Chennai,4,1400
+ORD0216,2026-08-27,CUST021,Backpack,Accessories,Chennai,5,1400
+ORD0217,2026-08-15,CUST039,Water Bottle,Home,Pune,5,550
+ORD0218,2026-05-09,CUST026,Notebook Set,Stationery,Pune,3,350
+ORD0219,2026-09-05,CUST049,Mechanical Keyboard,Electronics,Mumbai,2,2200
+ORD0220,2026-07-03,CUST090,Bluetooth Speaker,Electronics,Hyderabad,3,1800
+ORD0221,2026-01-12,CUST002,Desk Lamp,Home,Mumbai,3,1100
+ORD0222,2026-01-26,CUST037,Bluetooth Speaker,Electronics,Bengaluru,4,1800
+ORD0223,2026-06-30,CUST080,Laptop Stand,Accessories,Hyderabad,2,900
+ORD0224,2026-03-12,CUST040,Mechanical Keyboard,Electronics,Pune,1,2200
+ORD0225,2026-01-18,CUST017,Bluetooth Speaker,Electronics,Chennai,3,1800
+ORD0226,2026-06-01,CUST023,Water Bottle,Home,Bengaluru,4,550
+ORD0227,2026-03-09,CUST068,Office Chair,Furniture,Mumbai,3,6500
+ORD0228,2026-05-20,CUST062,USB-C Hub,Electronics,Hyderabad,3,1200
+ORD0229,2026-06-23,CUST010,Mechanical Keyboard,Electronics,Bengaluru,4,2200
+ORD0230,2026-04-26,CUST047,Desk Lamp,Home,Chennai,5,1100
+ORD0231,2026-07-22,CUST069,Wireless Mouse,Electronics,Chennai,3,650
+ORD0232,2026-08-21,CUST075,Water Bottle,Home,Pune,3,550
+ORD0233,2026-07-10,CUST061,Mechanical Keyboard,Electronics,Chennai,2,2200
+ORD0234,2026-06-17,CUST083,Bluetooth Speaker,Electronics,Chennai,2,1800
+ORD0235,2026-08-26,CUST015,Backpack,Accessories,Bengaluru,4,1400
+ORD0236,2026-01-24,CUST064,Wireless Mouse,Electronics,Chennai,3,650
+ORD0237,2026-02-19,CUST018,Laptop Stand,Accessories,Pune,5,900
+ORD0238,2026-08-21,CUST054,Water Bottle,Home,Mumbai,5,550
+ORD0239,2026-03-21,CUST063,Desk Lamp,Home,Mumbai,1,1100
+ORD0240,2026-07-28,CUST089,Backpack,Accessories,Hyderabad,1,1400
+ORD0241,2026-04-22,CUST031,Notebook Set,Stationery,Hyderabad,4,350
+ORD0242,2026-02-20,CUST083,Water Bottle,Home,Hyderabad,5,550
+ORD0243,2026-02-01,CUST025,Desk Lamp,Home,Chennai,3,1100
+ORD0244,2026-08-21,CUST083,Mechanical Keyboard,Electronics,Mumbai,2,2200
+ORD0245,2026-01-11,CUST032,Wireless Mouse,Electronics,Bengaluru,3,650
+ORD0246,2026-04-16,CUST027,Mechanical Keyboard,Electronics,Mumbai,5,2200
+ORD0247,2026-04-21,CUST019,Laptop Stand,Accessories,Mumbai,3,900
+ORD0248,2026-01-02,CUST017,Backpack,Accessories,Mumbai,2,1400
+ORD0249,2026-05-09,CUST085,USB-C Hub,Electronics,Chennai,1,1200
+ORD0250,2026-03-09,CUST031,Wireless Mouse,Electronics,Mumbai,3,650
