@@ -262,6 +262,8 @@ st.dataframe(
 
 
 # -----------------------------
+```python
+# -----------------------------
 # Business Insights
 # -----------------------------
 st.subheader("💡 Business Insights")
@@ -274,4 +276,41 @@ if not filtered_df.empty:
         .idxmax()
     )
 
-    best
+    best_region = (
+        filtered_df.groupby("Region")["Revenue"]
+        .sum()
+        .idxmax()
+    )
+
+    top_product = (
+        filtered_df.groupby("Product")["Revenue"]
+        .sum()
+        .idxmax()
+    )
+
+    st.success(
+        f"Best-performing category: **{best_category}**"
+    )
+
+    st.info(
+        f"Best-performing region: **{best_region}**"
+    )
+
+    st.warning(
+        f"Top product by revenue: **{top_product}**"
+    )
+
+else:
+    st.warning("No data available for the selected filters.")
+
+
+# -----------------------------
+# Footer
+# -----------------------------
+st.divider()
+
+st.caption(
+    "Retail Sales Analytics Dashboard | "
+    "Built with Python, Pandas, Plotly and Streamlit"
+)
+```
